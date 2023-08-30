@@ -1,2 +1,2 @@
 # Mobile-ME1
-ME1 para disciplina desenvolvimento mobile
+ME1 utilizando dart cru para disciplina desenvolvimento mobile
